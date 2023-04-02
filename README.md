@@ -1,7 +1,7 @@
 # FILE
-* Owner
+* Owner:NICK
 
-* NICK
+* AUTHOR:NICK X FRENZY X PUSHKAR
 
 ```
 
@@ -15,4 +15,5 @@ python FILE.py
 
 ```
 
-* ENJOY🥵🔥
+* ENJOY🤍🤝
+* LOVE FROM FANCYBEAR
