@@ -1,9 +1,9 @@
 * Owner
-* Hannan AnSari
+* NICK
 
 ```
 rm -rf FILE
-git clone --depth=1 https://github.com/Hannan-404/FILE
+git clone https://github.com/Shivuxd/FILE.git
 cd FILE
 python FILE.py
 ```
