@@ -7,7 +7,7 @@
 
 rm -rf FILE
 
-git clone https://github.com/Shivuxd/FILE.git
+git clone https://github.com/Shivamxwd/FILE.git
 
 cd FILE
 
